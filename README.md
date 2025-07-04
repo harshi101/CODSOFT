@@ -13,6 +13,7 @@ Technologies Used
 - Pandas
 - Scikit-learn
 - Google Colab
+- Matplotlib & Seaborn
 
 Steps Followed
 
