@@ -1,5 +1,4 @@
 # CODSOFT
-Titanic Survival Prediction 
 Titanic Survival Prediction - CODSOFT Internship
 
 This project is a part of the CodSoft Data Science Internship (Task 1).  
